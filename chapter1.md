@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Lesson 2.2: Capture output of shell commands'
+description: ' Capture output of shell commands using subprocess.Popen '
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 4709e638fc
+xp: 50
+```
+
+`@projector_key`
+0e77cf66e9b9d1c38fee414ce04f1431
