@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Capture output of shell commands
 
 ```yaml
 type: VideoExercise
